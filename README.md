@@ -1,4 +1,4 @@
-# Simulink_PumpedStorageHydropower-
+# Simulink_PumpedStorageHydropower
 Simulink models of Fixed-Speed, Variable-Speed, and Ternary Pumped Storage Hydropower.
 
 Pumped Storage Hydropower (PSH) is one of the most popular energy storage technologies in the world. It uses an upper reservoir to store water which can be later used during high-demand. In the US, most of the energy storage capability actually corresponds to PSH. Moreover, PSH also brings multiple benefits to grid operation.
