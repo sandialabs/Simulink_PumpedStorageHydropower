@@ -7,8 +7,6 @@ The attached report presents the Simulink models of three common PSH technologie
 
 For each PSH model, an introductory description of the model components and other relevant functionalities are provided. For further information regarding the models and the initialization parameters, the author is referred to the shared files. This report also presents the dynamic behavior of each model. The response of such models to a load event is analyzed and matched with each model’s features. A custom IEEE 39 bus case is employed for the FS and T-PSH simulations, while the VS-PSH is simulated on a simplified three-bus test system due to the computational complexity of the model. For the T-PSH, the steady-state and the switching between several operating modes are also studied in this work.
 
-
-BSD License:
 Copyright 2022 National Technology & Engineering Solutions of Sandia, LLC (NTESS). Under the terms of Contract DE-NA0003525 with NTESS, the U.S. Government retains certain rights in this software. 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
